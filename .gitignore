@@ -8,10 +8,14 @@
 *.iml
 .idea/
 
+# gradle
+.gradle/
+
 # Target folders
 target/
 build/
 out/
+bin/
 
 ## Vim ##
 # swap
